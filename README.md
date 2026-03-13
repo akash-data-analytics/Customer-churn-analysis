@@ -66,10 +66,10 @@ including churn rate, contract type distribution, and monthly charge analysis.
 
 1_customer_churn_cleaned.xlsx – cleaned dataset used for analysis  
 2_customer_churn.csv – raw dataset  
-4_customer_churn_analysis.sql – SQL queries used for analysis  
-5_customer_churn_analysis.ipynb – Python exploratory data analysis  
-6_customer_churn_dashboard.pbix – Power BI dashboard  
-7_customer_churn_dashboard.pdf – dashboard preview
+3_customer_churn_analysis.sql – SQL queries used for analysis  
+4_customer_churn_analysis.ipynb – Python exploratory data analysis  
+5_customer_churn_dashboard.pbix – Power BI dashboard  
+6_customer_churn_dashboard.pdf – dashboard preview
 
 
 
