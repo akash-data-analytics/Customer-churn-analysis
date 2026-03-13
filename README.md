@@ -13,6 +13,7 @@ and improve customer retention.
 
 Dataset used: IBM Telco Customer Churn Dataset.
 
+
 The dataset contains information about telecom customers such as:
 
 - Customer demographics
@@ -70,6 +71,7 @@ including churn rate, contract type distribution, and monthly charge analysis.
 4_customer_churn_analysis.ipynb – Python exploratory data analysis  
 5_customer_churn_dashboard.pbix – Power BI dashboard  
 6_customer_churn_dashboard.pdf – dashboard preview
+<img width="967" height="777" alt="Dashboardcc" src="https://github.com/user-attachments/assets/e6b308e6-40ff-4ea5-917f-c98ed0fd0f5f" />
 
 
 
